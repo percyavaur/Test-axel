@@ -1,4 +1,4 @@
-var name ="axel";
-var lastname="suarez";
+var name ="percy";
+var lastname="avalos";
 
 console.log(`${name} ${lastname}`)
