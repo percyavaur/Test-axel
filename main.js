@@ -1,4 +1,6 @@
 var name ="axel";
 var lastname="suarez";
 
-console.log(`${name} ${lastname}`)
+var edad =24
+
+console.log(`${name} ${lastname}: ${edad}`)
