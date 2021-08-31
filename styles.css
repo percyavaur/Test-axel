@@ -1,0 +1,22 @@
+.hijo{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+
+.hijo2{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.padre{
+    height: 1000px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+}
+
+/* justify-content - posicionamiento horizontal */
+/* align-items - posicionamiento vertical */
